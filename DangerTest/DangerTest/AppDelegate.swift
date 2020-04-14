@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  GithubActions
+//  DangerTest
 //
 //  Created by Pedro Vargas on 14/04/20.
 //  Copyright © 2020 Pedro Vargas. All rights reserved.

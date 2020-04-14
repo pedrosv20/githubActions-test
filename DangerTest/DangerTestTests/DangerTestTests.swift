@@ -1,14 +1,15 @@
 //
-//  GithubActionsTests.swift
-//  GithubActionsTests
+//  DangerTestTests.swift
+//  DangerTestTests
 //
 //  Created by Pedro Vargas on 14/04/20.
 //  Copyright © 2020 Pedro Vargas. All rights reserved.
 //
 
 import XCTest
+@testable import DangerTest
 
-class GithubActionsTests: XCTestCase {
+class DangerTestTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -25,7 +26,7 @@ class GithubActionsTests: XCTestCase {
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
-        measure {
+        self.measure {
             // Put the code you want to measure the time of here.
         }
     }
