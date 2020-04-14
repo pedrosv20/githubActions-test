@@ -9,13 +9,7 @@
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
-  
-  
-
-  
-  
-  
-  
+    var ugehughaeughaeugheugh = 0
   var window: UIWindow?
 
 
